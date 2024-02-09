@@ -1,3 +1,7 @@
+@font-face {
+  font-family: gilroy;
+  src: url(./Radomir\ Tinkov\ -\ Gilroy-Light.woff2);
+}
 * {
   padding: 0;
   margin: 0;
